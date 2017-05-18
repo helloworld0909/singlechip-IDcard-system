@@ -1,0 +1,6 @@
+MYSQL_HOST = 'localhost'
+MYSQL_PORT = 3306
+MYSQL_USER = 'root'
+MYSQL_PASSWD = '960423'
+MYSQL_DB = 'payment'
+MYSQL_CHARSET = 'utf8'
