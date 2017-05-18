@@ -1,7 +1,9 @@
 # Payment system based on Arduino singlechip terminal
 
 Terminal:<br>
-A card reader built on Arduino singlechip platform.
+* RFID card reader built on Arduino singlechip platform.
+* remote control based on IRremote module
+* LCD display
 
 Backend:<br>
 * MySQL Database which can store personal information, balance information, etc.
