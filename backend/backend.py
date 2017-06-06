@@ -38,3 +38,12 @@ while True:
                 elif ret == 1:
                     ser.write('Not enough money\t\n')
         ID = None
+
+    if data.startswith('BUS:'):
+        ID_re = re.search(r'BUS:(.*)$', data.strip())
+        if ID_re is not None:
+            ID = ID_re.group(1)
+            print ID
+            ret = db.checkIn(ID)
+            print ret
+        ID = None
