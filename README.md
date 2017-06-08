@@ -3,10 +3,11 @@
 Architecture:<br>
 <img src="image/IDcard-system.png"/>
 Flow chart:<br>
-1. Payment
+1. Payment<br>
 <img src="image/Payment.png"  width="100%"/>
-2. School Bus check-in
+2. School Bus check-in<br>
 <img src="image/Check-in.png"  width="65%"/>
+
 Terminal:<br>
 * RFID card reader built on Arduino singlechip platform.
 * remote control based on IRremote module
