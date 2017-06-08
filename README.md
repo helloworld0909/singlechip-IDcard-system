@@ -1,13 +1,19 @@
 # ID card system based on Arduino singlechip terminal
 
-Functions:<br>
+Architecture:<br>
+![](image/ID card system.png)
+
+Flow chart:<br>
 1. Payment
-2. School Bus check in
+![](image/Payment.png)
+2. School Bus check-in
+![](image/Check-in.png)
 
 Terminal:<br>
 * RFID card reader built on Arduino singlechip platform.
 * remote control based on IRremote module
 * LCD display
+* Buzzer
 
 Backend:<br>
 * MySQL Database which can store personal information, balance information, etc.
