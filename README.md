@@ -1,7 +1,7 @@
 # ID card system based on Arduino singlechip terminal
 
 Architecture:<br>
-![](image/ID card system.png)
+![](image/IDcard-system.png)
 
 Flow chart:<br>
 1. Payment
