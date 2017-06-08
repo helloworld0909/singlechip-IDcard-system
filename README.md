@@ -1,4 +1,8 @@
-# Payment system based on Arduino singlechip terminal
+# ID card system based on Arduino singlechip terminal
+
+Functions:<br>
+1. Payment
+2. School Bus check in
 
 Terminal:<br>
 * RFID card reader built on Arduino singlechip platform.
